@@ -1,4 +1,4 @@
-## Accessible Musical Apparatus Design Workshop
+## 无障碍音乐装置设计工作坊
 
 You can use the [editor on GitHub](https://github.com/Orphikos/orphikos.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
